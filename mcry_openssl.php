@@ -1,11 +1,9 @@
 <?php
 
-use Tool as GlobalTool;
 
 class Tool
 {
-   // private static $mcryptKey = 'xmwk@2013';
-    private static $mcryptKey = '9a85dbc588e0d4e5bdf96748e3a9d81';
+    private static $mcryptKey = '9a85dbc588e0d4e5bdf96748e000d81';
 
     private static $_use_openssl = false;
     /**
